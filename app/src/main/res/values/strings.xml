@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExampleProject</string>
+    <string name="show">Show</string>
+    <string name="input_city_name">Input city name</string>
+    <string name="lat_lon_pattern">Latitude: %1$.2f; Longitude: %2$.2f</string>
+    <string name="visibility_pattern">Visibility: %.2f</string>
+</resources>
